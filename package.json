@@ -1,0 +1,26 @@
+{
+  "name": "tln-lib-token",
+  "version": "1.0.0",
+  "description": "lib-token",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timlin1972/tln-lib-token.git"
+  },
+  "keywords": [
+    "lib-token",
+    "tln"
+  ],
+  "author": "Tim Lin <timlin1972@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timlin1972/tln-lib-token/issues"
+  },
+  "homepage": "https://github.com/timlin1972/tln-lib-token#readme",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1"
+  }
+}
